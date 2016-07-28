@@ -6,6 +6,8 @@ public class tech {
 
     teacher t1=new teacher();
     t1.call();
+    teacher t2=new teacher();
+    t1.call();
 	
 	}
 
